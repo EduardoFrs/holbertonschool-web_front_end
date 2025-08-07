@@ -8,10 +8,10 @@ $text-color: #00FF00;
 
 .success {
     color: $text-color;
-    @extend .info
+    @extend .info;
 }
 
 .warning {
     color: #FF0000;
-    @extend .info
+    @extend .info;
 }
